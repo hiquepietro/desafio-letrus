@@ -27,7 +27,7 @@ https://www.figma.com/file/OlZtpmS4v7IgTTq93XJpyX/Untitled?node-id=6%3A154&mode=
 ## RODAR O PROJETO 
 
 * instalar o Node.js (versão 14.1.0)
-* Clonar o repositorio " git clone : "
+* Clonar o repositorio " git clone : git@github.com:hiquepietro/desafio-letrus.git "
 * npm install 
 * npm install @reduxjs/toolkit react-redux 
 * npm run start ( para subir o projeto)
