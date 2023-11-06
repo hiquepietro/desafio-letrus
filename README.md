@@ -39,5 +39,9 @@ https://www.figma.com/file/OlZtpmS4v7IgTTq93XJpyX/Untitled?node-id=6%3A154&mode=
 usando a extensão do ## Redux para visualizar o states da aplicação como ele esta retornando.
 ![image](https://github.com/hiquepietro/desafio-letrus/assets/91694349/a5c09fc5-adca-45f2-8217-35c603a81769)
 
+![image](https://github.com/hiquepietro/desafio-letrus/assets/91694349/1616c567-f9da-4429-a478-b218cd6ec695)
+
+![image](https://github.com/hiquepietro/desafio-letrus/assets/91694349/9a65927c-196e-452c-92d6-d6a42a1aa508)
+
 
 
