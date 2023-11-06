@@ -32,3 +32,12 @@ https://www.figma.com/file/OlZtpmS4v7IgTTq93XJpyX/Untitled?node-id=6%3A154&mode=
 * npm install @reduxjs/toolkit react-redux 
 * npm run start ( para subir o projeto)
 
+![image](https://github.com/hiquepietro/desafio-letrus/assets/91694349/dc1cd8ba-d45a-48ef-879b-aec190b15ea5)
+
+
+## REDUX 
+usando a extensão do ## Redux para visualizar o states da aplicação como ele esta retornando.
+![image](https://github.com/hiquepietro/desafio-letrus/assets/91694349/a5c09fc5-adca-45f2-8217-35c603a81769)
+
+
+
